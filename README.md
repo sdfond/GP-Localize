@@ -1,6 +1,7 @@
 # GP-Localize
 
-# running algo:
+Running algo:
+
 sh genCase.sh [dataset id] [traj name] [field list] [algo list] [no. of steps] [output file]
 
 case0: a simple example
