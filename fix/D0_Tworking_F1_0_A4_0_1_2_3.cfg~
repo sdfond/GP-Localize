@@ -1,0 +1,11 @@
+dataset 0
+field_name working
+field_num 2_0_1
+algo 1_4
+step_num 336
+support_num 40
+slice_size 10
+trunc_size 10
+particle_num 5
+output D0_Tworking_F1_0_A4_0_1_2_3
+alpha 0.01 0.01 0.01 0.01

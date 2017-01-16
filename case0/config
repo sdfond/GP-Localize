@@ -1,0 +1,11 @@
+dataset 2
+output real 
+field_name real
+field_num 1:0
+algo 1:5
+step_num 561
+support_num 40
+slice_size 10
+trunc_size 10
+particle_num 400
+alpha 0.2 0.2 0.2 0.2
